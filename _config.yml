@@ -1,0 +1,28 @@
+name: Webheld
+favicon: null
+layout_spectrum: 0.3883209687191993
+typography_spectrum: 0.5781624466180801
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.25081912777386606
+  lightness: 0.2402090639807284
+  saturation: 0.9445623429492116
+  rhythmicContrast: 0.2946533472277224
+purpose: []
